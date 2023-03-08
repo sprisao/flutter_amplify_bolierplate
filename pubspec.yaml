@@ -34,7 +34,8 @@ dependencies:
   amplify_flutter: 0.6.12
   amplify_datastore: ^0.6.12
   amplify_auth_cognito: ^0.6.12
-#  amplify_storage_s3: ^0.2.4
+  amplify_authenticator: ^0.2.4
+  amplify_storage_s3: ^0.6.12
   amplify_api: ^0.6.12
   provider: ^6.0.5
 #  image_picker: ^0.8.2
